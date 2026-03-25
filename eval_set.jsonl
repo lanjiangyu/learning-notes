@@ -1,0 +1,8 @@
+{"id":"q1","query":"兰琦捡到的钥匙是什么颜色？","expected_answer":"蓝色","answer_keywords":["蓝色"],"evidence_chunk_ids":[0,1]}
+{"id":"q2","query":"为什么说第三层不存在？","expected_answer":"电梯显示-1、1、2、4，没有3层。","answer_keywords":["没有3层","-1、1、2、4"],"evidence_chunk_ids":[1,2]}
+{"id":"q3","query":"RAG-01是什么意思？","expected_answer":"测试编号：RAG-01，检索目标：兰疆渝，是否成功：部分成功。","answer_keywords":["测试编号","部分成功"],"evidence_chunk_ids":[5]}
+{"id":"q4","query":"时间14:07出现在哪里？","expected_answer":"在地铁站出现（开头和结尾都出现）。","answer_keywords":["地铁站","14:07"],"evidence_chunk_ids":[0,4,5]}
+{"id":"q5","query":"走廊大约多长？","expected_answer":"大约27米。","answer_keywords":["27米"],"evidence_chunk_ids":[2]}
+{"id":"q6","query":"档案里兰疆渝的状态是什么？","expected_answer":"正在生成。","answer_keywords":["正在生成"],"evidence_chunk_ids":[4]}
+{"id":"q7","query":"终端输入兰疆渝后返回了哪三条结果？","expected_answer":"未找到、已存在、正在写入。","answer_keywords":["未找到","已存在","正在写入"],"evidence_chunk_ids":[4]}
+{"id":"q8","query":"时间从15:12跳到了多少？","expected_answer":"09:43。","answer_keywords":["15:12","09:43"],"evidence_chunk_ids":[3]}
